@@ -6,7 +6,7 @@ target/
 
 ## ENV Files ##
 .env
-
+test
 
 ### STS ###
 .apt_generated
